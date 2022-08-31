@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @iamjoypalmahato
+- 👋 Hi, I’m Joypal Mahato {@iamjoypalmahato}
 - 👀 I’m interested in Web3
 - 🌱 I’m currently learning web devlopment
 - 💞️ I’m looking to collaborate on web2 and web3 projects
