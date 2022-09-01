@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Joypal Mahato 
 - 👀 I’m interested in Web3
 - 🌱 I’m currently learning web devlopment
-- 💞️ I’m looking to collaborate on web2 and web3 projects
+- 💞️ I’m looking to collaborate on web3 projects
 - 📫 How to reach me ? 
   -> iamjoypalmahato@gmail.com
 
